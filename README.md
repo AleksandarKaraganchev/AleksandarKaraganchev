@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AleksandarKaraganchev
+- 👀 I’m interested in C# projects
+- 🌱 I’m currently learning C#
